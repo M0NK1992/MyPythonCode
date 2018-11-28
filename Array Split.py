@@ -1,10 +1,7 @@
 print("Enter the array of numbers seperated by spaces: \n")
 arr=[int(x) for x in input().split()]
-#arr= [0,0,0,-1,-1, -2,5,6]
 arr.sort(reverse= True)
-#arr.reverse()
 count= len(arr)
-#print(count)
 print(arr)
 
 #summing array elements
