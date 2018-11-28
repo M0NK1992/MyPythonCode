@@ -1,0 +1,1 @@
+My simple python program to split an array of n elements int ot wo arrays whose sum are almost equal.
